@@ -1,0 +1,4 @@
+1. Extract all files
+2. Run start.bat
+
+Your done!
